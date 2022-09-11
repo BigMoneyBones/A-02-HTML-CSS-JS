@@ -1,4 +1,4 @@
-let count = 5;
+let count = 0;
 
 const add = document.getElementById("add");
 const subtract = document.getElementById("subtract");
